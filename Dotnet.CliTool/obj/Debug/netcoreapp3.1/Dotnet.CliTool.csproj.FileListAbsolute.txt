@@ -1,0 +1,12 @@
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/bin/Debug/netcoreapp3.1/Dotnet.CliTool.deps.json
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/bin/Debug/netcoreapp3.1/Dotnet.CliTool.runtimeconfig.json
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/bin/Debug/netcoreapp3.1/Dotnet.CliTool.runtimeconfig.dev.json
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/bin/Debug/netcoreapp3.1/Dotnet.CliTool.dll
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/bin/Debug/netcoreapp3.1/Dotnet.CliTool.pdb
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/obj/Debug/netcoreapp3.1/Dotnet.CliTool.csprojAssemblyReference.cache
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/obj/Debug/netcoreapp3.1/Dotnet.CliTool.AssemblyInfoInputs.cache
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/obj/Debug/netcoreapp3.1/Dotnet.CliTool.AssemblyInfo.cs
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/obj/Debug/netcoreapp3.1/Dotnet.CliTool.csproj.CoreCompileInputs.cache
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/obj/Debug/netcoreapp3.1/Dotnet.CliTool.dll
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/obj/Debug/netcoreapp3.1/Dotnet.CliTool.pdb
+/Users/haristauqir/Workspace/Rider/Dotnet.CliTool/Dotnet.CliTool/obj/Debug/netcoreapp3.1/Dotnet.CliTool.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/Donet.CliTool.deps.json
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/Donet.CliTool.runtimeconfig.json
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/Donet.CliTool.runtimeconfig.dev.json
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/Donet.CliTool.dll
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/Donet.CliTool.pdb
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/obj/Debug/netcoreapp3.1/Donet.CliTool.csprojAssemblyReference.cache
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/obj/Debug/netcoreapp3.1/Donet.CliTool.AssemblyInfoInputs.cache
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/obj/Debug/netcoreapp3.1/Donet.CliTool.AssemblyInfo.cs
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/obj/Debug/netcoreapp3.1/Donet.CliTool.csproj.CoreCompileInputs.cache
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/obj/Debug/netcoreapp3.1/Donet.CliTool.dll
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/obj/Debug/netcoreapp3.1/Donet.CliTool.pdb
+/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/obj/Debug/netcoreapp3.1/Donet.CliTool.genruntimeconfig.cache

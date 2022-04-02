@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Donet.CliTool</id>
+    <version>1.0.0</version>
+    <authors>Donet.CliTool</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/obj/DotnetToolSettings.xml" target="tools/netcoreapp3.1/any/DotnetToolSettings.xml" />
+    <file src="/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/publish/Donet.CliTool.dll" target="tools/netcoreapp3.1/any/Donet.CliTool.dll" />
+    <file src="/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/publish/Donet.CliTool.deps.json" target="tools/netcoreapp3.1/any/Donet.CliTool.deps.json" />
+    <file src="/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/publish/Donet.CliTool.runtimeconfig.json" target="tools/netcoreapp3.1/any/Donet.CliTool.runtimeconfig.json" />
+    <file src="/Users/haristauqir/Workspace/Rider/Donet.CliTool/Donet.CliTool/bin/Debug/netcoreapp3.1/publish/Donet.CliTool.pdb" target="tools/netcoreapp3.1/any/Donet.CliTool.pdb" />
+  </files>
+</package>
